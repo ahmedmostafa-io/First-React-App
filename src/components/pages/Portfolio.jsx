@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Star from "./../Star";
 import poert1 from "../../assets/poert1.png";
-import poert2 from "../../assets/Port2.png";
-import poert3 from "../../assets/Port3.png";
+import poert2 from "../../assets/port2.png";
+import poert3 from "../../assets/port3.png";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useLocation } from "react-router";
