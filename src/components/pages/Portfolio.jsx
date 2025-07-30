@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Star from "./../Star";
-import poert1 from "../../assets/Poert1.png";
+import poert1 from "../../assets/poert1.png";
 import poert2 from "../../assets/Port2.png";
 import poert3 from "../../assets/Port3.png";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
